@@ -1,13 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
+    <!DOCTYPE html>
+    <html lang="en">
 <!-- 
 SA: I Charlise Martin, 400469676 certify that this material is my original work.
 No other person's work has been used without due acknowledgement.
 I have also not made my work available to anyone else.
 -->
-<title> Charlise Martin 4IT3 Assignment #1 </title>
+    <title> Charlise Martin 4IT3 Assignment #1 </title>
 
-<head>
+    <head>
     <style>
         body{
             font-family: 'Times New Roman', Times, serif;
@@ -214,9 +214,9 @@ I have also not made my work available to anyone else.
         }
 
     </style>
-</head>
+    </head>
 
-<body> 
+    <body> 
     <div class = "container">
         <div class="bubble-content">
             <div class="bubble"> 
